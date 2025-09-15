@@ -34,7 +34,7 @@ export default function HeaderPageVi() {
         { name: "Xe Điện", link: "/vi/car" },
         { name: "Xe Điện", link: "/vi/car" },
         { name: "Lưu trú", link: "/vi/hotel" },
-        { name: "Ăm thực", link: "/vi/visit/50" },
+        { name: "Ẩm thực", link: "/vi/visit/50" },
         { name: "Hội nghị", link: "/vi/visit/55" },
       ],
     },
